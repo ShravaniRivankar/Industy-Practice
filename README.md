@@ -1,2 +1,2 @@
 # Industy Practice
- proect made in ip session
+ project made in ip session
